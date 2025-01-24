@@ -27,4 +27,3 @@ How to Use
 Technologies
 
 - Microsoft Excel or compatible tools like Google Sheets.
-- Microsoft Excel or compatible tools like Google Sheets.
