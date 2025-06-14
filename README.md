@@ -10,7 +10,8 @@ Welcome to **My Portfolio**, a repository where I organize my projects and learn
 
 2. [Data Structures](./Data%20Structures/)
    - **Description:** Hands-on labs solving algorithmic and structural problems using Python.
-   - **Highlight:** [Lab4-Aguilar-Diego.ipynb](./Data%20Structures/Lab4-Aguilar-Diego.ipynb)
+   - **Highlight:** [README.md](./Data%20Structures/README.md)
+
 ---
 
 ## About This Portfolio
