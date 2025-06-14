@@ -15,6 +15,11 @@ Welcome to **My Portfolio**, a repository where I organize my projects and learn
 3. [Introduction to Data Science](./Introduction%20to%20Data%20Science/)
    - **Description:** Weekly exercises covering data wrangling, EDA, statistics, and Python visualizations.
    - **Highlight:** [README.md](./Introduction%20to%20Data%20Science/README.md)
+  
+4. [Python & AI](./Python%20%26%20AI/)
+   - **Description:** Exercises from Platzi’s Python for Artificial Intelligence course.
+   - **Highlight:** [README.md](./Python%20%26%20AI/README.md)
+
 
 
 ---
