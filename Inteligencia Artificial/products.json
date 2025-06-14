@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "Laptop",
+        "price": 1200,
+        "quantity": 4,
+        "brand": "BrandName",
+        "category": "Electronics",
+        "entry_date": "1/5/2024"
+    }
+]
