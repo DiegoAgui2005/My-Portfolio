@@ -11,6 +11,11 @@ Welcome to **My Portfolio**, a repository where I organize my projects and learn
 2. [Data Structures](./Data%20Structures/)
    - **Description:** Hands-on labs solving algorithmic and structural problems using Python.
    - **Highlight:** [README.md](./Data%20Structures/README.md)
+  
+3. [Introduction to Data Science](./Introduction%20to%20Data%20Science/)
+   - **Description:** Weekly exercises covering data wrangling, EDA, statistics, and Python visualizations.
+   - **Highlight:** [README.md](./Introduction%20to%20Data%20Science/README.md)
+
 
 ---
 
