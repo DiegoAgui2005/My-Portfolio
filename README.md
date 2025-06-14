@@ -3,9 +3,14 @@
 Welcome to **My Portfolio**, a repository where I organize my projects and learning experiences from various courses. This portfolio showcases practical work and real-world projects, reflecting my skills in different areas. 🚀
 
 ## Table of Contents
+
 1. [Financial Management](./Financial%20Management/)
-   - **Description**: Financial management and accounting statements in Excel.
-   - **Highlight**: [Financial Statement.xlsx](./Financial%20Management/Financial%20Statement.xlsx).
+   - **Description:** Financial management and accounting statements in Excel.
+   - **Highlight:** [Financial Statement.xlsx](./Financial%20Management/Financial%20Statement.xlsx)
+
+2. [Data Structures](./Data%20Structures/)
+   - **Description:** Hands-on labs solving algorithmic and structural problems using Python.
+   - **Highlight:** [Lab4-Aguilar-Diego.ipynb](./Data%20Structures/Lab4-Aguilar-Diego.ipynb)
 ---
 
 ## About This Portfolio
